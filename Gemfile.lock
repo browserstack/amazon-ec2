@@ -9,7 +9,7 @@ GEM
   specs:
     mocha (0.9.9)
       rake
-    rake (0.8.7)
+    rake (13.0.1)
     rcov (0.9.9)
     test-spec (0.10.0)
     test-unit (2.1.2)
